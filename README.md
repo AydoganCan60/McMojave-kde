@@ -30,9 +30,3 @@ Lisans
 
 GNU GPL v3
 
-Önizleme
----------
-
-Tema:
-../master/plasma/look-and-feel/com.github.vinceliuice.McMojave/contents/previews/fullscreenpreview.jpg
-
