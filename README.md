@@ -8,7 +8,7 @@ Yaptıklarım:
 Kurulum
 -------
 
-1. Releases kısmına girip en son sürümü indirin.
+1. Releases kısmına girip Türkçe sürümü indirin.
 2. İndirilen dosyayı SDDM tema klasörüne taşıyın:
    
 ```sh
